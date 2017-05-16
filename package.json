@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/ColeMorton/api-test.git",
   "author": "Cole Morton <cole.morton@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.3.3"
+  }
 }
