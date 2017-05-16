@@ -1,0 +1,8 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ColeMorton/api-test.git",
+  "author": "Cole Morton <cole.morton@hotmail.com>",
+  "license": "MIT"
+}
